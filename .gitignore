@@ -1,0 +1,16 @@
+/.env
+/tmp
+/vendor
+/storage
+/log
+/lib
+/bin
+/config/master.key
+/config/credentials.yml.enc
+/test/controllers
+/test/fixtures/files
+/test/helpers
+/test/integration
+/test/mailers
+/test/models
+/test/system

@@ -1,0 +1,2 @@
+class EditcartController < ApplicationController
+end
